@@ -1,3 +1,34 @@
 <resources>
+	<plurals name="follow">
+		<item quantity="one">%d follower · %d following</item>
+		<item quantity="other">%d followers · %d following</item>
+		<item quantity="zero">%d followers · %d following</item>
+	</plurals>
+	<plurals name="gist">
+		<item quantity="one">%d gist</item>
+		<item quantity="other">%d gists</item>
+		<item quantity="zero">%d gists</item>
+	</plurals>
+	<plurals name="repo">
+		<item quantity="one">%d repository</item>
+		<item quantity="other">%d repositories</item>
+		<item quantity="zero">%d repositories</item>
+	</plurals>
 	<string name="app_name">Aplikasi GitHub User</string>
+	<string name="dark_mode">Dark Mode</string>
+	<string name="favorite">Favorite</string>
+	<string name="field_cannot_be_empty">Field cannot be empty</string>
+	<string name="followers_limit">Followers Limit</string>
+	<string name="following_limit">Following Limit</string>
+	<string name="info">ID: %d | Type: %s</string>
+	<string name="invalid_input">Invalid input</string>
+	<string name="result_limit">Result Limit</string>
+	<string name="search_limit">Search Limit</string>
+	<string name="searchbar_hint">Search GitHub User</string>
+	<string name="setting">Setting</string>
+	<string name="share">Share</string>
+	<string name="tab_text_1">Followers</string>
+	<string name="tab_text_2">Following</string>
+	<string name="value_cannot_be_less_than_1">Value cannot be less than 0</string>
+	<string name="value_cannot_be_more_than_100">Value cannot be more than 100</string>
 </resources>
